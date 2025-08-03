@@ -1,0 +1,16 @@
+/.vscode
+/.idea
+build/
+docs/
+dist/
+logs/
+out/
+*~
+*.o
+*.pyc
+*.log
+*.tlog
+*.raw
+*.bak
+*.orig
+
